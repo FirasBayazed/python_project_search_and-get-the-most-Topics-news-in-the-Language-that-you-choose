@@ -2,6 +2,7 @@
 #### Uses Microsoft Cognitive Services API to translate text
 #### Language of source text is automatically detected
 #### I used bing search engin to make the search
+## the Requirements and the steps to use the code
 
 - - go to https://azure.microsoft.com/en-us/try/cognitive-services/ then choose:(Language APIS) to get your free api
 - - then paste your api key that you will get it to `api_key = ?????`
